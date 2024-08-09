@@ -1,2 +1,2 @@
 # sexto
-tareas aplicacioens web 
+tareas aplicaciones web 
